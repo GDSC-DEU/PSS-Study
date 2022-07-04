@@ -2,6 +2,7 @@
 Date : 22.04.27
 Title : BAEKJOON 2438번
 Project : 별 찍기 - 1
+Level : Bronze 3
 Name : thelight0804
 """
 num = int(input())

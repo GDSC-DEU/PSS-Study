@@ -5,6 +5,8 @@ Title:
     BAEKJOON 11654번
 Project:
     아스키 코드
+Level:
+    Bronze 5
 Name:
     thelight0804
 """

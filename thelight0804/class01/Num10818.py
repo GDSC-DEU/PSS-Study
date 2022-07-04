@@ -2,6 +2,7 @@
 Date : 22.05.15
 Title : BAEKJOON 10818번
 Project : 최소, 최대
+Level : Bronze 3
 Name : thelight0804
 """
 repeatNum = int(input()) #입력 개수
