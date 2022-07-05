@@ -2,6 +2,7 @@
 Date : 22.05.05
 Title : BAEKJOON 2562번
 Project : 최댓값
+Level : Bronze 2
 Name : thelight0804
 """
 

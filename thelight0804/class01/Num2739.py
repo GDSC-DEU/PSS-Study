@@ -2,6 +2,7 @@
 Date : 22.05.10
 Title : BAEKJOON 2739번
 Project : 구구단
+Level : Bronze 3
 Name : thelight0804
 """
 

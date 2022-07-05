@@ -5,6 +5,8 @@ Title:
     BAEKJOON 10950번
 Project:
     최소, 최대
+Level:
+    Bronze 3
 Name:
     thelight0804
 """

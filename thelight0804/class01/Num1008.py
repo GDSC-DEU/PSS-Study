@@ -2,6 +2,7 @@
 Date : 22.04.06
 Title : BAEKJOON 1008번
 Project : A/B
+Level : Bronze 4
 Name : thelight0804
 """
 
