@@ -3,7 +3,7 @@
  * Date: 2022.07.04<br>
  * Title: BAEKJOON 4153번 <br>
  * Project: 직각삼각형 <br>
- * Level: Bronze 5 <br>
+ * Level: Bronze 3 <br>
  * 제출 시 class 이름을 Main으로 변경해야 한다
  */
 
@@ -18,11 +18,11 @@ import java.lang.Math;
 
 public class Num4153 {
     public static void main(String args[]) throws IOException {
-        //변 길이 입력 후 int array로 변환
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
         ArrayList<String> triangles = new ArrayList<>();
 
         while (true) {
+            //변 길이 입력 후 int array로 변환
             String[] str = bf.readLine().split(" ");
             Integer[] num = new Integer[str.length];
             for (int i = 0; i < num.length; i++)
@@ -49,3 +49,4 @@ public class Num4153 {
         } //while End
     }
 }
+
