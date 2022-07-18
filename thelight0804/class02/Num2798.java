@@ -3,7 +3,7 @@
  * Date: 2022.07.06<br>
  * Title: BAEKJOON 2798번 <br>
  * Project: 블랙잭 <br>
- * Level: Bronze 2 <br>
+ * Level: Bronze 3 <br>
  * 제출 시 class 이름을 Main으로 변경해야 한다
  */
 
